@@ -1,26 +1,24 @@
 # REST API
 
-> ❌ A travailler
-
 > ✔️ Auto validation par l'étudiant
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP ✔️
+- les statuts HTTP ✔️
+- les endpoints ✔️
+- CORS ✔️
+- la nomenclature recommandée pour les routes ✔️
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[[lien github](...)](https://github.com/Prophessy/wcs-quentin-crestey)
 
-Description :
+Description : Création d'une API backend avec Express, Typeorm, SQlite et Typescript 
 
 ### Utilisation en production si applicable❌ / ✔️
 
